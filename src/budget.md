@@ -10,9 +10,8 @@
 |         PTO         |     7     |   38,99 € HT   |
 | Compteur électrique |     7     |    51,47 €     |
 |  Soudeuse de fibre  |     1     |  1908,00€ TTC  |
-|  Poteaux   |     10     |  500 000 €  |
-|        Total        |           |    509602,88€    |
-
+|       Poteaux       |    10     |   500 000 €    |
+|        Total        |           |   509602,88€   |
 
 ## Budgetisation Salaire
 

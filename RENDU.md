@@ -18,7 +18,7 @@ Footer:
 ## Sujet
 
 Ce projet est monté autour de la SAE-301 (aussi appelée SAE-31 sur ce dépôt) dont le PN est accessible [ici](https://github.com/alexis-opolka/vert/blob/main/src/PN-SAE301.pdf),
-où le sujet est de faire un cas d'étude sur l'installation d'une desserte fibrée dans une zone nouvellement constructible en périphérie de la ville de Rouen.  
+où le sujet est de faire un cas d'étude sur l'installation d'une desserte fibrée (FO) dans une zone nouvellement constructible en périphérie de la ville de Rouen.  
 Nous devons principalement faire la desserte d'un [immeuble de standing](https://www.bnppre.fr/glossaire/immeuble-de-standing.html) comportant 7 logements,
 en plus de cela, il nous est demandé de préparer le raccordement d'emplacements déjà prévus à la construction afin de faciliter leur futur installation.
 
@@ -80,11 +80,49 @@ société française [Orange](https://orange.com), sa dénomination tout le long
 Ce travail a été effectué et vous est proposé par [Alexis Opolka](https://github.com/alexis-opolka), [Mathys Domergue](https://github.com/Mathys-Domergue)
 et [Thibault Garcia](https://github.com/ThibaultGarcia), durant leur cursus de 2ème année de BUT Réseaux et Télécommunications à [l'IUT de Béziers](https://iutbeziers.fr).
 
-<div>
-
 ## Méthode de travail et gestion de projet
 
 Nous avons décidé de regrouper tout notre travail sur un dépôt GitHub, que vous pouvez retrouver [ici](https://github.com/alexis-opolka/Vert/).  
 Pour la gestion de projet, nous avons utilisé un Kaban, disponible sur le GitHub Projects, accessible [via ce lien](https://github.com/users/alexis-opolka/projects/4/views/1).
 
+<div style="page-break-after: always;"></div>
+
+## Evolution du plan et de ses contraintes
+
+### La première ébauche
+
+En prenant compte de toutes les hypothèses, nous avons fait un premier schéma
+de la desserte en fibre optique (FO):
+
+![carte-v1](./out/carte-theorique.png)
+
+Nous avons rapidement dessiné les besoins de raccordements
+en plus de définir le type de liens nécessaires.
+
+<div style="page-break-after: always;"></div>
+
+### La deuxième ébauche
+
+Après cela, nous avons pris en compte, les besoins au niveau
+technique comme physique.
+
+Tel que la longueur maximale qu'un cable de FO peut être tendu
+entre deux poteaux, les PM et les PBO afin de pouvoir desservir les logements
+en question.
+
+### La dernière ébauche et le rendu final
+
+Enfin, nous avons noté les distances des segments, donné une légende ainsi qu'un
+titre au plan.  
+Nous avons mis une légende plus détaillée sur les éléments ajoutés et avons
+travaillé sur la lisibilité gloable du plan d'installation.
+
+Tout ceci afin de donner le rendu final juste en dessous:
+
+![carte-v3](./out/carte-theorique-v3.png)
+
+<div style="page-break-after: always;"></div>
+
 !!!include(./src/budget.md)!!!
+
+!!!include(./src/sources.md)!!!
