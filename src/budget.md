@@ -8,10 +8,10 @@
 |  PBO (12 sorties)   |     2     |   61.92 € HT   |
 |  PBO (16 sorties)   |     1     |   58,90 € HT   |
 |         PTO         |     7     |   38,99 € HT   |
-| Compteur électrique |     7     |    51,47 €     |
+| Compteur électrique |     7     |    360.29 €    |
 |  Soudeuse de fibre  |     1     |  1908,00€ TTC  |
 |       Poteaux       |    10     |   500 000 €    |
-|        Total        |           |   509602,88€   |
+|        Total        |           |   509911,7€    |
 
 ## Budgetisation Salaire
 
@@ -34,10 +34,10 @@
 
 ## Budget total
 
-|     Outils      |   Coût   |
-| :-------------: | :------: |
-| Budget optique  | 9602,88€ |
-| Budget salaire  | 1690.58  |
-| Budget location |  346.5   |
-|      Total      | 11639.96 |
-|                 |          |
+|     Outils      |   Coût    |
+| :-------------: | :------:  |
+| Budget optique  | 509911.7€ |
+| Budget salaire  | 1690.58   |
+| Budget location |  346.5    |
+|      Total      | 511948,78 |
+|                 |           |
