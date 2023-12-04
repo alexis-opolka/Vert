@@ -85,12 +85,12 @@ de prévoir les futures voies d'accès et les autres raccordements (eau, éléct
 Afin d'organiser ce projet (et essayer de l'ammener au plus proche de la réalité), nous avons décidé de créer une société fictive du nom de <span class="sae31Vert">Vert</span>, inspiré de la
 société française [Orange](https://orange.com), sa dénomination tout le long du projet sera `Vert SA` ou `Vert, une Société Anonyme`.
 
+<div style="page-break-after: always;"></div>
+
 ## Auteurs
 
 Ce travail a été effectué et vous est proposé par [Alexis Opolka](https://github.com/alexis-opolka), [Mathys Domergue](https://github.com/Mathys-Domergue)
 et [Thibault Garcia](https://github.com/ThibaultGarcia), durant leur cursus de 2ème année de BUT Réseaux et Télécommunications à [l'IUT de Béziers](https://iutbeziers.fr).
-
-<div style="page-break-after: always;"></div>
 
 ## Méthode de travail et gestion de projet
 
