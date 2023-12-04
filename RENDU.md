@@ -87,4 +87,4 @@ et [Thibault Garcia](https://github.com/ThibaultGarcia), durant leur cursus de 2
 Nous avons décidé de regrouper tout notre travail sur un dépôt GitHub, que vous pouvez retrouver [ici](https://github.com/alexis-opolka/Vert/).  
 Pour la gestion de projet, nous avons utilisé un Kaban, disponible sur le GitHub Projects, accessible [via ce lien](https://github.com/users/alexis-opolka/projects/4/views/1).
 
-## Compte-rendu
+!!!include(./src/budget.md)!!!
