@@ -10,6 +10,7 @@ Copyright: All Rights Reserved
 Header:
     Left: Alexis O., Mathys D., Thibault G.
 Footer:
+    Left: "{{ ChangeDate 'dd-MM-yyyy' }}"
     Center: "&copy; {{ ChangeDate 'yyyy' }} {{ Author }} - {{ Copyright }}"
 ---
 
