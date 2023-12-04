@@ -27,7 +27,8 @@ Pour toute information complémentaire, veuillez me contacter à [copyright@alex
 ## Sujet
 
 Ce projet est monté autour de la SAE-301 (aussi appelée SAE-31 sur ce dépôt) dont le PN est accessible [ici](https://github.com/alexis-opolka/vert/blob/main/src/PN-SAE301.pdf),
-où le sujet est de faire un cas d'étude sur l'installation d'une desserte fibrée (FO) dans une zone nouvellement constructible en périphérie de la ville de Rouen.  
+où le sujet est de faire un cas d'étude sur l'installation d'une desserte fibrée (FO) dans une zone nouvellement constructible en périphérie de la ville de Rouen.
+
 Nous devons principalement faire la desserte d'un [immeuble de standing](https://www.bnppre.fr/glossaire/immeuble-de-standing.html) comportant 7 logements,
 en plus de cela, il nous est demandé de préparer le raccordement d'emplacements déjà prévus à la construction afin de faciliter leur futur installation.
 
