@@ -15,6 +15,15 @@ Footer:
 
 # SAE-31 - Un cas d'étude
 
+## Notice
+
+Tout le travail effectué pour la SAE-31 et le projet <span class="sae31Vert">Vert</span>, que ce soit dans ce document ou sur le dépôt GitHub accessible [ici](https://github.com/alexis-opolka/Vert)
+provenant des membres de ce projet est sous [licence MIT](https://mit-license.org/) dont les spécificités sont accessibles [ici](https://github.com/alexis-opolka/import-cours-but-rt/blob/e5afc1845e2027859e05c64fbfe5affc07bdc143/LICENSE).
+
+Dans le cas de travaux ou documents provenant d'autres sources, d'autres entités ou ne provenant pas du travail réalisé par un des membres de ce projet, les droits reviennent à leur auteur.
+
+Pour toute information complémentaire, veuillez me contacter à [copyright@alexis-opolka.dev](mailto:copyright@alexis-opolka.dev).
+
 ## Sujet
 
 Ce projet est monté autour de la SAE-301 (aussi appelée SAE-31 sur ce dépôt) dont le PN est accessible [ici](https://github.com/alexis-opolka/vert/blob/main/src/PN-SAE301.pdf),
@@ -80,12 +89,12 @@ société française [Orange](https://orange.com), sa dénomination tout le long
 Ce travail a été effectué et vous est proposé par [Alexis Opolka](https://github.com/alexis-opolka), [Mathys Domergue](https://github.com/Mathys-Domergue)
 et [Thibault Garcia](https://github.com/ThibaultGarcia), durant leur cursus de 2ème année de BUT Réseaux et Télécommunications à [l'IUT de Béziers](https://iutbeziers.fr).
 
+<div style="page-break-after: always;"></div>
+
 ## Méthode de travail et gestion de projet
 
 Nous avons décidé de regrouper tout notre travail sur un dépôt GitHub, que vous pouvez retrouver [ici](https://github.com/alexis-opolka/Vert/).  
 Pour la gestion de projet, nous avons utilisé un Kaban, disponible sur le GitHub Projects, accessible [via ce lien](https://github.com/users/alexis-opolka/projects/4/views/1).
-
-<div style="page-break-after: always;"></div>
 
 ## Evolution du plan et de ses contraintes
 
@@ -123,6 +132,12 @@ Tout ceci afin de donner le rendu final juste en dessous:
 
 <div style="page-break-after: always;"></div>
 
+!!!include(./src/choix.md)!!!
+
+<div style="page-break-after: always;"></div>
+
 !!!include(./src/budget.md)!!!
+
+<div style="page-break-after: always;"></div>
 
 !!!include(./src/sources.md)!!!
