@@ -43,3 +43,13 @@
 - ### 1 soudeuse de fibres
 
   Dans le but de faire des épissures lors de la coupe de fibres.
+
+- ### Employés sélectionnés
+
+  Pour le bureau d'étude, nous avons sélectionnés 1 technicien supérieur génie civil et 1 ingénieur RT sur 3 jours.  
+  Pour les travaux manuels, nous avons sélectionné 1 ouvrier sur 1 jour.  
+  Pour le déploiement de la fibre, nous avons sélectionné 1 technicien RT sur 1 jour.
+
+- ### 1 pelleteuse
+
+  Nous devons creuser des tranchées pour installer les poteaux à destination de la fibre aérienne.
