@@ -34,10 +34,10 @@
 
 ## Budget total
 
-|     Outils      |   Coût   |
-| :-------------: | :------: |
-| Budget optique  | 9602,88€ |
-| Budget salaire  | 1690.58  |
-| Budget location |  346.5   |
-|      Total      | 11639.96 |
-|                 |          |
+|     Outils      |   Coût    |
+| :-------------: | :------:  |
+| Budget optique  | 509911.7€ |
+| Budget salaire  | 1690.58   |
+| Budget location |  346.5    |
+|      Total      | 511948,78 |
+|                 |           |
